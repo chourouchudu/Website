@@ -9,4 +9,4 @@
      xmlHttp.send(null);
   }
 
-  const url = "https://ipgeolocation.abstractapi.com/v1/?api_key=460f069aa078439281d8bda8e78ec5cc"
+  const url = "https://ipgeolocation.abstractapi.com/v1/?api_key=ae59ca2a92794ddda8702b5f56b382b9"
